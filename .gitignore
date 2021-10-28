@@ -1,0 +1,14 @@
+
+temp/
+db/
+Pipfile.lock
+*.pyc
+.idea
+.env
+.venv
+venv
+
+
+
+
+
