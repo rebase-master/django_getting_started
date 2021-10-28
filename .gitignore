@@ -7,8 +7,4 @@ Pipfile.lock
 .env
 .venv
 venv
-
-
-
-
-
+meeting_planner/db.sqlite3

@@ -19,7 +19,7 @@ from website.views import welcome, date
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', welcome),
+    path('', welcome, name='welcome'),
     path('date', date),
     path('meetings/', include('meetings.urls')),
 ]
